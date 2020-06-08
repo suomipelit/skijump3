@@ -13,7 +13,9 @@ closed DOS version to qualify.
 
 ## Build
 
-Currently only DOS build is supported.
+This repository is for original DOS version. If you would like to
+build or play Skijump International 3 on modern platforms, take a look
+at [SDL2 port](https://github.com/suomipelit/skijump3-sdl) instead.
 
 ### Compiling for DOS
 
